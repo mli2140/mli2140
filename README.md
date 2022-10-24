@@ -1,0 +1,3 @@
+- 👀 Teaching [CS, GIS Technologies, CV] Learning, Education
+- 🌱 Intern working on a deeplearning project with TF and Keras
+- 💞️ I’m looking to collaborate on Teaching
