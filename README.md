@@ -1,3 +1,4 @@
-- 👀 Teaching [CS, GIS Technologies, CV] Learning, Education
-- 🌱 Intern working on a deeplearning project with TF and Keras
-- 💞️ I’m looking to collaborate on Teaching
+- 👀 Teaching & Studying [CS, GIS Technologies, Computer Vision]
+- 🌱 Currently working on a Deeplearning project with TF and Keras
+- 💞️ Colab on Earth Science, Big Data, Computer Vision, DeepLearning
+- ⛰️ High Mountain Geomorphology, Permafrost, Cryosphere
