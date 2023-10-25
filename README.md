@@ -1,4 +1,3 @@
 - 👀 Teaching & Studying [CS, GIS Technologies, Computer Vision]
-- 🌱 Currently working on a Deeplearning project with TF and Keras
 - 💞️ Colab on Earth Science, Big Data, Computer Vision, DeepLearning
 - ⛰️ High Mountain Geomorphology, Permafrost, Cryosphere
