@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T16:38:54.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TA-9oUC4-qwk5fPTIvdZ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T12:01:26.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="92yMsFPuOa7OmMus8aNo" version="22.0.8" type="github">
   <diagram name="Page-1" id="hsDm7N-NumxUynAWq6ky">
-    <mxGraphModel dx="3804" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4325" dy="1334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qgbLY4odhaIjJaBlrRMp-78" value="Webcam" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="700.5" y="277" width="429.5" height="18" as="geometry" />
+          <mxGeometry x="674" y="277" width="456" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qgbLY4odhaIjJaBlrRMp-79" value="GNSS" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="700.5" y="256" width="429.5" height="18" as="geometry" />
+          <mxGeometry x="674" y="256" width="456" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qgbLY4odhaIjJaBlrRMp-80" value="In-situ Meteo" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="700" y="235" width="430" height="18" as="geometry" />
+          <mxGeometry x="674" y="235" width="456" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qgbLY4odhaIjJaBlrRMp-81" value="Piezometer Measurements" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="674" y="340" width="456" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qgbLY4odhaIjJaBlrRMp-82" value="Cross Borehole ERT" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="810" y="319" width="320" height="18" as="geometry" />
+          <mxGeometry x="783" y="319" width="347" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qgbLY4odhaIjJaBlrRMp-83" value="GST" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="700" y="298" width="430" height="18" as="geometry" />
+          <mxGeometry x="674" y="298" width="456" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qgbLY4odhaIjJaBlrRMp-86" value="Webcam" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="700.5" y="146" width="429.5" height="18" as="geometry" />
