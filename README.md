@@ -1,3 +1,1 @@
-- 👀 Teaching & Studying [CS, GIS Technologies, Computer Vision]
-- 💞️ Colab on Earth Science, Big Data, Computer Vision, DeepLearning
-- ⛰️ High Mountain Geomorphology, Permafrost, Cryosphere
+⛰️ High Mountain Geomorphology, Permafrost, Cryosphere
