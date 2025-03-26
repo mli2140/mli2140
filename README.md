@@ -1,1 +1,3 @@
-⛰️ High Mountain Geomorphology, Permafrost, Cryosphere
+Geomorphology
+Permafrost
+Cryosphere
